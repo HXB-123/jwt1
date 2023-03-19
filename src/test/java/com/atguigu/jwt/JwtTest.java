@@ -28,6 +28,7 @@ public class JwtTest {
                 .compact();
 
         System.out.println(jwtToken);
+        System.out.println("HELLO WORLD");
     }
 
     @Test
