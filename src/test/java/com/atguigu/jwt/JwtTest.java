@@ -30,6 +30,7 @@ public class JwtTest {
         System.out.println(jwtToken);
         System.out.println("HELLO WORLD");
         System.out.println("HELLO WORLD");
+        System.out.println("HELLO WORLD");
     }
 
     @Test
